@@ -1,6 +1,6 @@
 {
   "name": "@hemyn/egg-rpc",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "rpc base plugin for eggjs",
   "eggPlugin": {
     "name": "rpc"
